@@ -5,7 +5,6 @@ I'm a **Machine Learning Engineer** focused on building practical ML pipelines a
 ## Projects
 - **[nc_stream](https://github.com/privaelo/nc_stream)** – Python package for streaming .cdf files from **Satellite data** directly from AWS S3 using `xarray` + `h5netcdf`. Designed for reproducible geospatial ML workflows and large-scale anomaly detection.  
 - **Engine Sensor Anomaly Detection Pipeline** – Applied **sliding-window feature extraction** + **Isolation Forest** to detect abnormal sensor trends, with correlation analysis and visual dashboards for root-cause insights.  
-- **GeoWarn** – A cloud-native ML platform for **geospatial anomaly detection**, integrating satellite + ground sensor data streams. Building with AWS, FastAPI, Kubernetes, MLflow, and Terraform.
 
 ## Skills
 - **Languages**: Python (NumPy, Pandas, scikit-learn, PyTorch), SQL, Bash  

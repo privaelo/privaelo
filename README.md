@@ -1,21 +1,35 @@
 # Hi, I'm Tagnon Okoumassoun
 
-I'm a **Machine Learning Engineer** focused on building practical ML pipelines and research-driven prototypes that solve real-world problems.
+I'm a Robotics / Autonomous Systems engineer focused on building resilient multi-robot systems and research-driven autonomy prototypes that operate under unreliable communication and real-world constraints.
+
+---
 
 ## Projects
-- **[nc_stream](https://github.com/privaelo/nc_stream)** – Python package for streaming .cdf files from **Satellite data** directly from AWS S3 using `xarray` + `h5netcdf`. Designed for reproducible geospatial ML workflows and large-scale anomaly detection.  
-- **Engine Sensor Anomaly Detection Pipeline** – Applied **sliding-window feature extraction** + **Isolation Forest** to detect abnormal sensor trends, with correlation analysis and visual dashboards for root-cause insights.  
+
+**Resilient UAV–UGV Autonomy Prototype**  
+ROS 2 + Gazebo simulation exploring store-and-forward communication, value-of-information exchange, and coordination under packet loss and degraded bandwidth.
+
+**Blockchain-enabled Federated Learning for SAGIN** |  [Link](https://ieeexplore.ieee.org/document/10361502)  
+Designed hierarchical UAV → swarm → edge aggregation with lightweight consensus for trusted model update sharing. Published at IEEE CyberSci 2023 (Best Paper).
+
+---
 
 ## Skills
-- **Languages**: Python (NumPy, Pandas, scikit-learn, PyTorch), SQL, Bash  
-- **MLOps**: MLflow, DVC, Docker, FastAPI, Kubernetes, Terraform  
-- **Cloud**: AWS SageMaker, GCP Vertex AI, S3, BigQuery  
-- **Specialties**: Anomaly detection, computer vision, geospatial AI, scalable pipelines
+
+**Languages:** Python (NumPy, Pandas, scikit-learn, PyTorch), C++, SQL, Bash  
+**Robotics & Simulation:** ROS 2, Gazebo, multi-agent coordination  
+**Distributed Systems:** Federated learning, consensus mechanisms, edge collaboration  
+**Computer Vision:** OpenCV, CNN-based classification  
+**Cloud & Data:** AWS (S3, SageMaker), large-scale data processing
+
+---
 
 ## Focus
-- Designing and training ML models from scratch  
-- Deploying models as APIs or pipelines with **MLOps best practices**  
-- Optimizing ML workflows for **scalability, reproducibility, and impact**
+
+- Designing resilient multi-robot autonomy under intermittent connectivity  
+- Learning and aggregation under communication constraints  
+- Trust-aware distributed decision-making  
+- Simulation-first prototyping for field-ready deployment
 
 ---
 

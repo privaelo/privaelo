@@ -9,7 +9,7 @@ I'm a Robotics / Autonomous Systems engineer focused on building resilient multi
 **Resilient UAV–UGV Autonomy Prototype**  
 ROS 2 + Gazebo simulation exploring store-and-forward communication, value-of-information exchange, and coordination under packet loss and degraded bandwidth.
 
-**Blockchain-enabled Federated Learning for SAGIN** |  [Link](https://ieeexplore.ieee.org/document/10361502)  
+**Blockchain-enabled Federated Learning for SAGIN** |  [Paper Link](https://ieeexplore.ieee.org/document/10361502)  
 Designed hierarchical UAV → swarm → edge aggregation with lightweight consensus for trusted model update sharing. Published at IEEE CyberSci 2023 (Best Paper).
 
 ---

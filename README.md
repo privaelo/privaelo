@@ -1,7 +1,5 @@
 # Hi, I'm Tagnon Okoumassoun
 
-I'm a Robotics / Autonomous Systems engineer focused on building resilient multi-robot systems and research-driven autonomy prototypes that operate under unreliable communication and real-world constraints.
-
 ---
 
 ## Projects

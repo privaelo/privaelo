@@ -11,7 +11,7 @@ Designed hierarchical UAV → swarm → edge aggregation with lightweight consen
 
 ## Skills
 
-**Languages:** Python (NumPy, Pandas, scikit-learn, PyTorch), C++, SQL
+**Languages:** Python (NumPy, Pandas, scikit-learn, PyTorch), C++, SQL 
 **Robotics & Simulation:** ROS 2, Gazebo, multi-agent coordination  
 **Distributed Systems:** Federated learning, consensus mechanisms, edge collaboration  
 **Computer Vision:** OpenCV, CNN-based classification  

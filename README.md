@@ -1,23 +1,22 @@
-# Hi, I'm Tagnon Okoumassoun
+## Hi, I'm Tagnon
 
----
+I build robotics systems in simulation. I'm currently working through Kevin Lynch's *Modern Robotics* specialization and developing a multi-robot task allocation environment.
 
-## Projects
+## Current Projects
 
-**Blockchain-enabled Federated Learning for SAGIN** |  [Paper Link](https://ieeexplore.ieee.org/document/10361502)  
-Designed hierarchical UAV → swarm → edge aggregation with lightweight consensus for trusted model update sharing. Published at IEEE CyberSci 2023 (Best Paper).
+- **[modern_robotics](#)** — Code, notes, and demos as I work through the specialization
+- **[air-ground-ops](#)** — Multi-robot task allocation in ROS 2 / Gazebo
 
----
+## Publications
+
+**[Blockchain-enabled Federated Learning for SAGIN](https://ieeexplore.ieee.org/document/10361502)** — IEEE CyberSci 2023, Best Paper. 
 
 ## Skills
 
-**Languages:** Python (NumPy, Pandas, scikit-learn, PyTorch), C++, SQL  
-**Robotics & Simulation:** ROS 2, Gazebo, multi-agent coordination  
-**Distributed Systems:** Federated learning, consensus mechanisms, edge collaboration  
-**Computer Vision:** OpenCV, CNN-based classification  
-**Cloud & Data:** AWS (S3, SageMaker), large-scale data processing
+**Languages:** Python, C++, SQL
+**Robotics & Simulation:** ROS 2, Gazebo, Coppelia Sim, RViz
+**ML & CV:** PyTorch, OpenCV, CNN-based classification
 
 ---
 
-Let’s connect on [LinkedIn](linkedin.com/in/tagnon-45616017b) or check out my pinned repos below!
-
+Let's connect on [LinkedIn](https://linkedin.com/in/tagnon-45616017b) or check out my pinned repos below.

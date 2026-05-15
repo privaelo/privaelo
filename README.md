@@ -5,7 +5,7 @@ I build robotics systems in simulation. I'm currently working through Kevin Lync
 ## Current Projects
 
 - **[air-ground-ops](https://github.com/privaelo/air-ground-ops.git)** — Multi-robot task allocation in ROS 2 / Gazebo
-- **[modern_robotics](https://github.com/privaelo/modern-robotics.git)** — Code, notes, and demos as I work through the specialization
+- **[modern_robotics](https://github.com/privaelo/modern-robotics.git)** — Code, notes, and demos from the specialization
 
 ## Publications
 

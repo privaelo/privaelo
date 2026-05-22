@@ -1,6 +1,6 @@
 ## Hi, I'm Tagnon
 
-I'm currently working on **_air-ground-ops_**, a simulation sandbox where I compare task allocation techniques between one aerial observer and ground vehicles. The use case is a search and rescue mission. The question that inspired this project: How does a task allocator air vehicle (UAV) adapt to disrupted communication or a changing environment ? What happens when it does not have the latest update on one ground vehicle for example ?  Check the repo out in Current Projects
+I'm currently working on **[air-ground-ops](https://github.com/privaelo/air-ground-ops.git)**, a simulation sandbox where I compare task allocation techniques between one aerial observer and ground vehicles. The use case is a search and rescue mission. The question that inspired this project: How does a task allocator air vehicle (UAV) adapt to disrupted communication or a changing environment ? What happens when it does not have the latest update on one ground vehicle for example ?  Check the repo out in Current Projects
 
 ## Current Projects
 

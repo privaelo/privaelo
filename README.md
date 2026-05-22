@@ -9,7 +9,7 @@ I'm currently working on **_air-ground-ops_**, a simulation sandbox where I comp
 
 ## Publications
 
-**[Blockchain-enabled Federated Learning for SAGIN](https://ieeexplore.ieee.org/document/10361502)** — Presented at IEEE CyberSci 2023, Best Paper. This work proposes a framework where data collected by space, air, ground is authenticated via a BFT consensus. Working on this paper gave me the inspiration for **_air-ground-ops_**, and also sparked my interest for autonomous multi-robot teams in general.
+**[Blockchain-enabled Federated Learning for SAGIN](https://ieeexplore.ieee.org/document/10361502)** — Presented at IEEE CyberSci 2023, Best Paper. This work proposes a framework where data collected by space, air and ground participants is authenticated via a BFT consensus. Working on this paper gave me the inspiration for **_air-ground-ops_**, and also sparked my interest for autonomous multi-robot teams in general.
 
 ## Skills
 

@@ -14,7 +14,7 @@ I build robotics systems in simulation. I'm currently working through Kevin Lync
 ## Skills
 
 **Languages:** Python, C++, SQL  
-**Robotics & Simulation:** ROS 2, Gazebo, Coppelia Sim, RViz  
+**Robotics & Simulation:** ROS 2, Gazebo, Coppelia Sim, RViz, MATLAB, Simulink  
 **ML & CV:** PyTorch, OpenCV
 
 ---

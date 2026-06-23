@@ -1,11 +1,11 @@
 ## Hi, I'm Tagnon
 
-I'm currently working on **[air-ground-ops](https://github.com/privaelo/air-ground-ops.git)**, a simulation sandbox where I compare task allocation techniques between one aerial observer and ground vehicles. The use case is a search and rescue mission. The question that inspired this project: How does a task allocator air vehicle (UAV) adapt to disrupted communication or a changing environment ? What happens when it does not have the latest update on one ground vehicle for example ?  Check the repo out in Current Projects
+My interests span across Embodied AI, particularly multi-robot coordination, joint prediction and planning.
 
 ## Current Projects
 
-- **[air-ground-ops](https://github.com/privaelo/air-ground-ops.git)** — Multi-robot task allocation in ROS 2 / Gazebo
-<!-- - **[modern_robotics](https://github.com/privaelo/modern-robotics.git)** — Code, notes, and demos from the specialization -->
+- **[air-ground-ops](https://github.com/privaelo/air-ground-ops.git)** — Multi-robot task allocation in ROS 2 / Gazebo. A simulation sandbox where I compare task allocation techniques between one aerial observer and ground vehicles. The use case is a search and rescue mission. Comparison between Hungarian and auction-based metods.
+- **[embodied-ai-roadmap](https://github.com/privaelo/embodied-ai-roadmap.git)** — Documented learning roadmap
 
 ## Publications
 

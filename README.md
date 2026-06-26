@@ -1,6 +1,6 @@
 ## Hi, I'm Tagnon
 
-My interests span across Embodied AI, particularly multi-robot coordination, task allocation, joint prediction and planning, optimization.
+My interests span across multi-robot coordination under uncertainty, task allocation, joint prediction and planning, optimization methods.
 
 ## Current Projects
 

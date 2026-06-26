@@ -5,7 +5,7 @@ My interests span across Embodied AI, particularly multi-robot coordination, tas
 ## Current Projects
 
 - **[air-ground-ops](https://github.com/privaelo/air-ground-ops.git)** — Multi-robot task allocation in ROS 2 / Gazebo. A simulation sandbox where I compare task allocation techniques between one aerial observer and ground vehicles. The use case is a search and rescue mission. Comparison between Hungarian and auction-based metods.
-- **[embodied-ai-roadmap](https://github.com/privaelo/embodied-ai-roadmap.git)** — Documented learning roadmap
+<!-- - **[embodied-ai-roadmap](https://github.com/privaelo/embodied-ai-roadmap.git)** — Documented learning roadmap -->
 
 ## Research
 - **[risk-aware-sensor-placement](https://github.com/privaelo/risk-aware-sensor-placement.git)** — Independent research task on sensor placement under uncertainty.
